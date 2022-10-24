@@ -1,0 +1,7 @@
+## 👋 我是**Alex Lee** <img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=yuansky88">
+
+✈️ 来自中国四川，目前就读大学计算机专业。
+
+🧿 正尝试前端Vue框架/ES6语法，Python后端Flask框架。
+
+💦 目前正在加紧项目研发工作。
