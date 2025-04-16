@@ -1,4 +1,4 @@
-## 👋 我是**Alex Lee** <img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=yuansky88">
+## 👋 我是**Alex Lee** <img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=yuansky9420">
 
 ✈️ 来自中国四川，目前就读大学计算机专业。
 
