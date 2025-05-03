@@ -1,7 +1,19 @@
-## 👋 我是**Alex Lee** <img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=yuansky9420">
+<pre>
+                                   __            ________  _____ _______________   
+ ___.__.__ _______    ____   _____|  | _____.__./   __   \/  |  |\_____  \   _  \  
+<   |  |  |  \__  \  /    \ /  ___/  |/ <   |  |\____    /   |  |_/  ____/  /_\  \ 
+ \___  |  |  // __ \|   |  \\___ \|    < \___  |   /    /    ^   /       \  \_/   \
+ / ____|____/(____  /___|  /____  >__|_ \/ ____|  /____/\____   |\_______ \_____  /
+ \/               \/     \/     \/     \/\/                  |__|        \/     \/ 
+</pre>
 
-✈️ 来自中国四川，目前就读大学计算机专业。
+## 👋 我是 **Yuansky9420**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuansky9420" width="35%">
 
-🧿 正尝试前端Vue框架/ES6语法，Python后端Flask框架。
+🕶️ Java / Python / 前端 都涉及一点的编程小菜鸡。  
 
-💦 学互团队创始人，新项目正在抓紧开发中
+🧿 致力建造安全、稳定、易用的软件。  
+
+✨ 不断提升自我的能力，努力实现编程领域中更大的成就。  
+
+🌏 Website: [https://www.cnsoft.top](https://www.cnsoft.top)
