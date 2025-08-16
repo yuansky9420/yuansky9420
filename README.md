@@ -10,7 +10,7 @@
 ## 👋 我是 **Yuansky9420**
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuansky9420" width="35%">
 
-🕶️ Java / Python / 前端 都涉及一点的编程小菜鸡。  
+🕶️ Java / Python / 前端 都涉及的新时代程序员。  
 
 🧿 致力建造安全、稳定、易用的软件。  
 
